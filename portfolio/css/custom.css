@@ -1,0 +1,16 @@
+
+
+/*----------- ADD YOUR CUSTOM CSS STYLES BELOW -----------*/
+.row--skills {
+    display: flex;
+    
+}
+/* .skills-box {
+    flex: 3 3 0px;
+} */
+
+.logo {
+    width: 150px;
+    height: 150px;
+}
+
